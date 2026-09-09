@@ -1,0 +1,21 @@
+# 依赖与构建产物（镜像内重新安装/构建）
+node_modules
+dist
+
+# 版本控制
+.git
+.gitignore
+
+# 日志
+*.log
+npm-debug.log*
+logs
+
+# 编辑器与系统杂项
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+
+# 文档与测试快照（非运行必需，可自行调整）
+README.md

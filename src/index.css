@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+html,
+body,
+#root {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* CAD 画布交互：禁止拖拽时误选中文本 */
+body {
+  user-select: none;
+  -webkit-user-select: none;
+}
