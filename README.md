@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![Live Preview](https://img.shields.io/badge/Live_Preview-在线体验-brightgreen?style=flat&logo=github&logoColor=white)](https://poormas.github.io/web-cad-app/)
+
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=flat&logo=vite&logoColor=white)
@@ -13,6 +15,10 @@
 **纯前端浏览器 CAD 应用** —— 视口交互 · 多图层 · 工程制图标注 · DXF 互操作
 
 </div>
+
+## 🔗 在线体验
+
+👉 立即体验（GitHub Pages 托管，随 `main` 分支自动部署）：**<https://poormas.github.io/web-cad-app/>**
 
 ## ✨ 核心特性
 
